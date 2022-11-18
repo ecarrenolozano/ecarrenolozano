@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <p>
     <a align="center" href="https://github.com/ecarrenolozano" target="_blank">
-      <img width="850" src="https://github.com/ecarrenolozano/ecarrenolozano/blob/main/github_frame_3.png"></a>
+      <img width="650" src="https://github.com/ecarrenolozano/ecarrenolozano/blob/main/github_frame_3.png"></a>
   </p>
   
    <br>
