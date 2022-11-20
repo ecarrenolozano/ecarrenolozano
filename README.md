@@ -24,11 +24,12 @@ You can click the Preview link to take a look at your changes.
   * Autonomous driving.
   * Artificial Intelligence.
   * Data Engineering.
-  * Software engineering for incentive and safety critical applications.
+  * Software engineering for intensive and safety critical applications.
 - 🌱 I’m currently learning
   * Advanced topics in Tensorflow2x.
   * PyTorch.
   * Robot Operating System.
+  * Rust.
 - 💞️ I’m looking to collaborate on ...
   * Autonomous driving initiatives.
   * Deep Learning and Computer Vision initiatives.
