@@ -29,12 +29,11 @@ You can click the Preview link to take a look at your changes.
   * Advanced topics in Tensorflow2x.
   * PyTorch.
   * Robot Operating System.
-  * Rust.
 - 💞️ I’m looking to collaborate on ...
   * Autonomous driving initiatives.
   * Deep Learning and Computer Vision initiatives.
   * Data Engineering projects.
 - 📫 How to reach me ...
-  * Email: edwin-carreno.lozano@tu-ilmenau.de
+  * Email: edwin-carreno.lozano@tu-ilmenau.de, edwin1892@gmail.com
 
   ## <div align="center">Repositories</div>
