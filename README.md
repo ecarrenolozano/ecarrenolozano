@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
   * Deep Learning and Computer Vision initiatives.
   * Data Engineering projects.
 - 📫 How to reach me ...
-  * Email: edwin-carreno.lozano@tu-ilmenau.de, edwin1892@gmail.com
+  * Email: edwin.carreno@iwr.uni-heidelberg.de, edwin1892@gmail.com
 
   ## <div align="center">Repositories</div>
